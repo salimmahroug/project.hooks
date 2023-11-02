@@ -1,0 +1,36 @@
+.input{
+    width: 200px;
+    height: 40px;
+ 
+  margin: 5px 0;
+  border: 3px solid #ccc;
+  border-radius: 10px;
+  font-size: 16px;
+  outline: none;
+  color: #ffffff;
+   
+}
+input[type="text"]::placeholder {
+    color: rgba(255, 255, 255, 0.707);}
+.rat {
+    width: 150px;
+    height: 30pxpx;
+    padding: 10px;
+    margin: 5px 0;
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+    outline: none;
+    color: #ffffff;
+    background-color: red;
+   
+}
+
+.filter{
+    display: flex;
+    margin: 0 0 0 20px;
+    
+}
+.inp{
+    margin-right: 10px;
+}
