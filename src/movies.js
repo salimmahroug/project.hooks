@@ -62,7 +62,7 @@ const movies=[
 {
     title:"fast and ferious",
     description:"Fast and Furious — ou Rapides et Dangereux au Québec — est une série de films d'action américains, dont les thèmes tournent principalement autour des voitures et de la famille.",
-    posterURL:"https://play-lh.googleusercontent.com/jxc2-6RFo8y6g1c0dcL-h35yZhGMQW8KABdG5VteDzNQJjvJvFvBsEkKQeC4mGQg2NfJlqiJrFHX7vJ05w",
+    posterURL:"https://www.abusdecine.com/wp-content/uploads/fast-and-furious-hobbs-and-shaw-affiche.jpg",
     rating:4,
 },
 {
